@@ -4,16 +4,20 @@
 ## Contents
 - [Bots](#bots)
 - [Apps](#apps)
-- [Themes/Skins](#themes/skins)
+- [Themes](#themes)
 - [Libraries](#libraries)
 
-## Bots
+### Bots
+- [Shamebell Bot](https://shamebellbot.com) - Shame your friends in Discord for doing stupid things.
+- [Airhorn Bot](https://airhorn.solutions) - The only bot for Discord you'll ever need.
+- [AnthBot](http://www.ingmferrer.com.ve/anthbot/en) - A chat bot for Discord.
+- [Dyno](https://www.dynobot.net) - A
 
-## Apps
+### Apps
 
-## Themes/Skins
+### Themes
 
-## Libraries
+### Libraries
 
-## License
+### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
