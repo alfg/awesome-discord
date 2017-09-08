@@ -14,7 +14,12 @@
 - [Shamebell Bot](https://shamebellbot.com) - Shame your friends in Discord for doing stupid things.
 - [Airhorn Bot](https://airhorn.solutions) - The only bot for Discord you'll ever need.
 - [AnthBot](http://www.ingmferrer.com.ve/anthbot/en) - A chat bot for Discord.
-- [Dyno](https://www.dynobot.net) - A
+- [Dyno](https://www.dynobot.net) - A multi-purpose Discord bot with features such as moderation, custom commands and music.
+- [FredBoat](https://docs.fredboat.com) - A bot that delivers high quality music to your Discord server.
+- [Guilded](https://www.guilded.gg) - Create a home for your gaming team with Guilded.
+- [Discord Dungeons](https://discorddungeons.me) - Fun boiled to the basics.
+- [Discoid](http://x-v0x.rhcloud.com/discoid) - Providing you and your server(s) with utility and fun.
+- [Master Overwatch](https://masteroverwatch.com/discord) - Bot for Overwatch to track stats and ratings.
 
 ### Apps
 - [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
