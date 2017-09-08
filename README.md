@@ -22,6 +22,11 @@
 - [Master Overwatch](https://masteroverwatch.com/discord) - Bot for Overwatch to track stats and ratings.
 - [Gravebot](https://github.com/Gravebot/Gravebot) - A fantastic, helpful and fun Discord chat and music bot. Commands for both Discord and games. 
 - [CouchBot](http://couchbot.io) - Let your Discord community know when you go live on Mixer, Smashcast, Twitch or YouTube Gaming.
+- [Tatsumaki](https://www.tatsumaki.xyz) - Engage your members by letting members earn XP, levels, reputation, credits & customization.
+- [Mee6](https://mee6.xyz/about) - Earn xp, levels, manage custom commands and search the web for anime and manga. 
+- [dabBot](https://dabbot.org) - Provides high quality music from YouTube, Soundcloud, Radio Stations, Discord.FM and more. 
+- [PVPCraft](https://bot.pvpcraft.ca) - Advanced permissions system, highly configurable prompts and intelligenty designed rate limits.
+- [UB3R-B0T](https://ub3r-b0t.com) - Reminders, searches, package tracking, weather and RSS/Twitter/Beam/picaro.tv notifications.
 
 ### Apps
 - [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
