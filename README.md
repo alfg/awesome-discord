@@ -37,5 +37,9 @@
 | [discord-rs](https://github.com/SpaceManiac/discord-rs) | Rust |
 | [Sword](https://github.com/Azoy/Sword) | Swift |
 
+### Resources
+- [Discord Developers](https://discordapp.com/developers)
+- [DiscordAPI Discord Server](https://discord.gg/discord-api)
+
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
