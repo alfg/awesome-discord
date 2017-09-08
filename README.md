@@ -17,8 +17,17 @@
 - [Dyno](https://www.dynobot.net) - A
 
 ### Apps
+- [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 
 ### Themes
+- [BetterDiscord Themes](https://github.com/Jiiks/BetterDiscordApp/wiki/Themes) - BetterDiscord's Themes Wiki.
+- [Discord Material Theme](http://www.beard-design.com/discord-material-theme/) - Beard's Material Design theme for Discord.
+- [Discord Themes and Plugins](https://github.com/cosmicsalad/Discord-Themes-and-Plugins) - A WIP collection of quality themes to use with BetterDiscord.
+- [CC Themes](https://github.com/CurimuChizu/CC-Themes) - These are all CC's themes.
+- [Discord-Themes](https://github.com/0mniscient/Discord-Themes) - Themes for Discord.
+- [Metro-for-Discord](https://github.com/TakosThings/Metro-for-Discord) - A custom theme for Discord based on Microsoft's Modern Design Language - 'Metro'.
+- [Mini Discord Themes](https://github.com/Zerthox/Mini-Discord-Themes) - Some very little, but maybe useful themes for Discord.
+- [BetterDocs Themes](https://betterdocs.net/themes.html) - BetterDocs Themes
 
 ### Libraries
 | Name | Language |
