@@ -27,7 +27,10 @@
 - [dabBot](https://dabbot.org) - Provides high quality music from YouTube, Soundcloud, Radio Stations, Discord.FM and more. 
 - [PVPCraft](https://bot.pvpcraft.ca) - Advanced permissions system, highly configurable prompts and intelligenty designed rate limits.
 - [UB3R-B0T](https://ub3r-b0t.com) - Reminders, searches, package tracking, weather and RSS/Twitter/Beam/picaro.tv notifications.
-
+- [Typical Bot](https://typicalbot.com) - Easy-to-use bot with commands that can be used for moderation purposes or fun.
+- [BlitzcrankBotV2](https://superfrosty.github.io/BlitzcrankBotV2) - Retrieves useful information about League of Legends players.
+- [Ayana](https://ayana.io) - Powerful Multipurpose Music Bot for Discord complete with High Quality Music, Moderation, and Utilities.
+- [SteamBot](http://steambot.site) - the #1 Discord bot for Steam.
 ### Apps
 - [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 
