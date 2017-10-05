@@ -31,6 +31,8 @@
 - [BlitzcrankBotV2](https://superfrosty.github.io/BlitzcrankBotV2) - Retrieves useful information about League of Legends players.
 - [Ayana](https://ayana.io) - Powerful Multipurpose Music Bot for Discord complete with High Quality Music, Moderation, and Utilities.
 - [SteamBot](http://steambot.site) - the #1 Discord bot for Steam.
+- [Baron](https://baronbot.github.io/) - League of Legends Discord bot.
+
 ### Apps
 - [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 
