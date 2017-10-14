@@ -1,6 +1,10 @@
 # Awesome Discord [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="discord-logo.svg" width="400">](https://discordapp.com)
+<p align="center">
+  <a href="https://discordapp.com">
+    <img src="discord-logo.svg" width="400">
+  </a>
+</p>
 
 > All Things Discord
 
@@ -9,6 +13,7 @@
 - [Apps](#apps)
 - [Themes](#themes)
 - [Libraries](#libraries)
+- [Utils](#utils)
 
 ### Bots
 - [Shamebell Bot](https://shamebellbot.com) - Shame your friends in Discord for doing stupid things.
@@ -57,8 +62,8 @@
 | [discordgo](https://github.com/bwmarrin/discordgo) | Go |
 | [Discord4J](https://github.com/austinv11/Discord4J) | Java |
 | [JDA](https://github.com/DV8FromTheWorld/JDA) | Java |
-| [discord.js](https://github.com/hydrabolt/discord.js) | Javascript |
-| [eris](https://github.com/abalabahaha/eris) | Javascript |
+| [discord.js](https://github.com/hydrabolt/discord.js) | JavaScript |
+| [eris](https://github.com/abalabahaha/eris) | JavaScript |
 | [Discordia](https://github.com/SinisterRectus/Discordia) | Lua |
 | [discord.py](https://github.com/Rapptz/discord.py) | Python |
 | [disco](https://github.com/b1naryth1ef/disco) | Python |
@@ -67,8 +72,14 @@
 | [Sword](https://github.com/Azoy/Sword) | Swift |
 
 ### Resources
-- [Discord Developers](https://discordapp.com/developers)
-- [DiscordAPI Discord Server](https://discord.gg/discord-api)
+- [Discord API](https://discord.gg/discord-api)
+- [Discord Feedback](https://discord.gg/discord-feedback)
+- [Discord Hub](https://discord.gg/hub)
+- [Discord Testers](https://discord.gg/discord-testers)
+
+### Utils
+- [Emojify](https://utils.dim.codes/emojify)
+- [WebHook](https://utils.dim.codes/webhook)
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
