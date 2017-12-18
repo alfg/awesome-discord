@@ -69,6 +69,7 @@
 | [disco](https://github.com/b1naryth1ef/disco) | Python |
 | [discordrb](https://github.com/meew0/discordrb) | Ruby |
 | [discord-rs](https://github.com/SpaceManiac/discord-rs) | Rust |
+| [discodian](http://discodian.com) | PHP |
 | [Sword](https://github.com/Azoy/Sword) | Swift |
 
 ### Resources
